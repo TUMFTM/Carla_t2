@@ -9,4 +9,4 @@
     left_overhang: 0.18 # between left wheel center and vehicle left
     right_overhang: 0.18 # between right wheel center and vehicle right
     vehicle_height: 2.40
-    max_steer_angle: 1.029 # [rad]
+    max_steer_angle: 1.029 # maximum average (between left and right wheel) steering angle in rad
